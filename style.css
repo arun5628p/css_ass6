@@ -6,7 +6,7 @@ html {
 }
 
 .main-wrapper {
-    background-image: url(./images/background.jpg);
+    background-image: url(./background.jpg);
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
@@ -110,25 +110,25 @@ a {
 	height: 30vh;
 }
 .box1 {
-	background-image: url("./images/cloud_security1.jpeg");
+	background-image: url("./cloud_security1.jpeg");
 	background-size: 100% 100%;
 	background-position: center;
 	background-repeat: no-repeat;
 }
 .box2 {
-	background-image:url("./images/social.jpg");
+	background-image:url("./social.jpg");
 	background-size: 100% 100%;
 	background-position: center;
 	background-repeat: no-repeat;
 }
 .box3 {
-	background-image:url("./images/artificial.jpg");
+	background-image:url("./artificial.jpg");
 	background-size: 100% 100%;
 	background-position: center;
 	background-repeat: no-repeat;
 }
 .box4 {
-	background-image:url("./images/physical.jpg");
+	background-image:url("./physical.jpg");
 	background-size: 100% 100%;
 	background-position: center;
 	background-repeat: no-repeat;
